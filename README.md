@@ -1,16 +1,85 @@
-## Hi there 👋
+# gpvenancio
 
-<!--
-**gpvenancio/gpvenancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer in transition, currently focused on JavaScript, modern web development, Linux and developer experience.
 
-Here are some ideas to get you started:
+I enjoy building clean, comfortable and thoughtfully designed experiences, both for users and developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+* JavaScript and modern frontend development
+* HTML, CSS and DOM manipulation
+* Git and GitHub workflows
+* Linux and development tooling
+* UI/UX oriented development
+* Developer experience and editor customization
+
+## Featured Projects
+
+### Atlantico
+
+A custom dark theme for Visual Studio Code focused on visual comfort, low noise and long coding sessions.
+
+Features:
+
+* Semantic highlighting
+* Carefully designed ANSI terminal palette
+* Consistent visual hierarchy
+* Marketplace publishing and maintenance
+
+GitHub:
+
+* [https://github.com/gpvenancio/atlantico](https://github.com/gpvenancio/atlantico)
+
+Marketplace:
+
+* [https://marketplace.visualstudio.com/items?itemName=gvenancio.atlantico](https://marketplace.visualstudio.com/items?itemName=gvenancio.atlantico)
+
+### Focus Dashboard
+
+A personal frontend learning project built while studying JavaScript and modern web development.
+
+Focus areas:
+
+* DOM manipulation
+* Events and interactivity
+* UI structure and layout
+* JavaScript practice and experimentation
+
+GitHub:
+
+* [https://github.com/gpvenancio/focus-dashboard](https://github.com/gpvenancio/focus-dashboard)
+
+## Tools and Technologies
+
+* JavaScript
+* HTML5
+* CSS3
+* Git
+* GitHub
+* Linux
+* Visual Studio Code
+
+## Background
+
+Before transitioning into frontend development, I worked in digital media, multimedia production, customer-facing roles and administrative coordination.
+
+This background helped me develop:
+
+* communication skills
+* autonomy
+* attention to detail
+* visual sensibility
+* problem-solving skills
+
+## Currently Learning
+
+* Advanced JavaScript
+* Asynchronous JavaScript
+* Modern frontend workflows
+* Project architecture
+* Better development practices
+
+## Contact
+
+* GitHub: [https://github.com/gpvenancio](https://github.com/gpvenancio)
+* LinkedIn: [https://linkedin.com/in/gpvenancio](https://linkedin.com/in/gpvenancio)
