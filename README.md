@@ -2,7 +2,7 @@
 
 Frontend developer in transition, currently focused on JavaScript, modern web development, Linux and developer experience.
 
-I enjoy building clean, comfortable and thoughtfully designed experiences, both for users and developers.
+I enjoy building clean, comfortable and thoughtfully designed experiences. 
 
 ## Current Focus
 
@@ -13,7 +13,7 @@ I enjoy building clean, comfortable and thoughtfully designed experiences, both 
 * UI/UX oriented development
 * Developer experience and editor customization
 
-## Featured Projects
+## Featured Project
 
 ### Atlantico
 
@@ -33,21 +33,6 @@ GitHub:
 Marketplace:
 
 * [https://marketplace.visualstudio.com/items?itemName=gvenancio.atlantico](https://marketplace.visualstudio.com/items?itemName=gvenancio.atlantico)
-
-### Focus Dashboard
-
-A personal frontend learning project built while studying JavaScript and modern web development.
-
-Focus areas:
-
-* DOM manipulation
-* Events and interactivity
-* UI structure and layout
-* JavaScript practice and experimentation
-
-GitHub:
-
-* [https://github.com/gpvenancio/focus-dashboard](https://github.com/gpvenancio/focus-dashboard)
 
 ## Tools and Technologies
 
