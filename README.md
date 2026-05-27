@@ -1,17 +1,25 @@
-# gpvenancio
+# Gonçalo Venâncio
 
-Frontend developer in transition, currently focused on JavaScript, modern web development, Linux and developer experience.
+Frontend developer in transition, focused on JavaScript, modern web development, Linux and developer experience.
 
-I enjoy building clean, comfortable and thoughtfully designed experiences. 
+[LinkedIn](https://linkedin.com/in/gpvenancio) · [Email](mailto:goncalo@venancio.dev)
+
+I enjoy building clean, comfortable and thoughtfully designed digital experiences, with attention to usability, visual clarity and long term maintainability.
 
 ## Current Focus
 
-* JavaScript and modern frontend development
+I am currently strengthening my foundations in modern frontend development, with a strong focus on understanding JavaScript deeply rather than only memorizing syntax.
+
+Main areas of focus:
+
+* JavaScript fundamentals and advanced concepts
 * HTML, CSS and DOM manipulation
+* Asynchronous JavaScript
 * Git and GitHub workflows
-* Linux and development tooling
-* UI/UX oriented development
-* Developer experience and editor customization
+* Linux based development environments
+* Visual Studio Code customization
+* UI/UX oriented frontend development
+* Clean, readable and maintainable code
 
 ## Featured Project
 
@@ -19,11 +27,14 @@ I enjoy building clean, comfortable and thoughtfully designed experiences.
 
 A custom dark theme for Visual Studio Code focused on visual comfort, low noise and long coding sessions.
 
+Atlantico started as a personal project to create a calmer and more consistent coding environment, but also became a practical way to learn more about developer tooling, visual hierarchy and publishing a real project.
+
 Features:
 
 * Semantic highlighting
 * Carefully designed ANSI terminal palette
 * Consistent visual hierarchy
+* Low noise interface choices
 * Marketplace publishing and maintenance
 
 GitHub:
@@ -36,6 +47,8 @@ Marketplace:
 
 ## Tools and Technologies
 
+Currently working with:
+
 * JavaScript
 * HTML5
 * CSS3
@@ -44,27 +57,50 @@ Marketplace:
 * Linux
 * Visual Studio Code
 
-## Background
-
-Before transitioning into frontend development, I worked in digital media, multimedia production, customer-facing roles and administrative coordination.
-
-This background helped me develop:
-
-* communication skills
-* autonomy
-* attention to detail
-* visual sensibility
-* problem-solving skills
-
-## Currently Learning
+Currently learning:
 
 * Advanced JavaScript
 * Asynchronous JavaScript
-* Modern frontend workflows
-* Project architecture
-* Better development practices
+* Frontend project architecture
+* Modern development workflows
+* Better debugging and problem solving practices
+
+Next steps:
+
+* React
+* TypeScript fundamentals
+* API based projects
+* Portfolio focused frontend projects
+
+## Background
+
+Before transitioning into frontend development, I worked in digital media, multimedia production, customer facing roles and administrative coordination.
+
+That background helped me develop skills that I now bring into software development:
+
+* clear communication
+* autonomy
+* attention to detail
+* visual sensibility
+* problem solving
+* organization
+* care for user facing experiences
+
+## Learning Philosophy
+
+I am focused on becoming employable as a frontend or fullstack JavaScript developer through consistent study, deliberate practice and real projects.
+
+My current priority is to build strong foundations in JavaScript and frontend development, while gradually developing professional habits around:
+
+* readable code
+* meaningful commits
+* project structure
+* debugging
+* documentation
+* long term learning
+* thoughtful user experience
 
 ## Contact
 
-* GitHub: [https://github.com/gpvenancio](https://github.com/gpvenancio)
+* Email: [goncalo@venancio.dev](mailto:goncalo@venancio.dev)
 * LinkedIn: [https://linkedin.com/in/gpvenancio](https://linkedin.com/in/gpvenancio)
