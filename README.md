@@ -4,7 +4,7 @@ Frontend developer in transition, focused on JavaScript, modern web development,
 
 [LinkedIn](https://linkedin.com/in/gpvenancio) · [Email](mailto:goncalo@venancio.dev)
 
-I enjoy building clean, comfortable and thoughtfully designed digital experiences, with attention to usability, visual clarity and long term maintainability.
+I enjoy building clean, comfortable and thoughtfully designed digital experiences, with attention to usability, visual clarity and long-term maintainability.
 
 ## Current Focus
 
@@ -16,9 +16,8 @@ Main areas of focus:
 * HTML, CSS and DOM manipulation
 * Asynchronous JavaScript
 * Git and GitHub workflows
-* Linux based development environments
-* Visual Studio Code customization
-* UI/UX oriented frontend development
+* Linux-based development environments
+* UI/UX-oriented frontend development
 * Clean, readable and maintainable code
 
 ## Featured Project
@@ -34,16 +33,13 @@ Features:
 * Semantic highlighting
 * Carefully designed ANSI terminal palette
 * Consistent visual hierarchy
-* Low noise interface choices
+* Low-noise interface choices
 * Marketplace publishing and maintenance
 
-GitHub:
+Links:
 
-* [https://github.com/gpvenancio/atlantico](https://github.com/gpvenancio/atlantico)
-
-Marketplace:
-
-* [https://marketplace.visualstudio.com/items?itemName=gvenancio.atlantico](https://marketplace.visualstudio.com/items?itemName=gvenancio.atlantico)
+* [GitHub repository](https://github.com/gpvenancio/atlantico)
+* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gvenancio.atlantico)
 
 ## Tools and Technologies
 
@@ -63,18 +59,18 @@ Currently learning:
 * Asynchronous JavaScript
 * Frontend project architecture
 * Modern development workflows
-* Better debugging and problem solving practices
+* Debugging and problem-solving practices
 
 Next steps:
 
 * React
 * TypeScript fundamentals
-* API based projects
-* Portfolio focused frontend projects
+* API-based projects
+* Portfolio-focused frontend projects
 
 ## Background
 
-Before transitioning into frontend development, I worked in digital media, multimedia production, customer facing roles and administrative coordination.
+Before transitioning into frontend development, I worked in digital media, multimedia production, customer-facing roles and administrative coordination.
 
 That background helped me develop skills that I now bring into software development:
 
@@ -84,21 +80,13 @@ That background helped me develop skills that I now bring into software developm
 * visual sensibility
 * problem solving
 * organization
-* care for user facing experiences
+* care for user-facing experiences
 
-## Learning Philosophy
+## Professional Direction
 
 I am focused on becoming employable as a frontend or fullstack JavaScript developer through consistent study, deliberate practice and real projects.
 
-My current priority is to build strong foundations in JavaScript and frontend development, while gradually developing professional habits around:
-
-* readable code
-* meaningful commits
-* project structure
-* debugging
-* documentation
-* long term learning
-* thoughtful user experience
+My current priority is to build strong foundations in JavaScript and frontend development, while gradually developing professional habits around readable code, meaningful commits, project structure, debugging, documentation and thoughtful user experience.
 
 ## Contact
 
