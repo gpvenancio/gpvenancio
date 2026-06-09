@@ -27,7 +27,7 @@ Main areas of focus:
 
 ### Atlantico
 
-A calm dark theme for Visual Studio Code focused on visual comfort, low noise, and long coding sessions.
+A calm theme for Visual Studio Code and compatible editors, focused on visual comfort, low noise, and long coding sessions.
 
 Most dark themes are built for visual impact. Atlantico was built for endurance.
 
@@ -35,18 +35,19 @@ Atlantico started as a personal project to create a calmer and more consistent c
 
 Highlights:
 
-- Published on the Visual Studio Marketplace
-- Custom semantic highlighting
-- Carefully designed ANSI terminal palette
-- Consistent visual hierarchy across languages
-- Low-noise interface choices
-- Public open source project
+* Published on the Visual Studio Marketplace and Open VSX Registry
+* Custom semantic highlighting
+* Carefully designed ANSI terminal palette
+* Consistent visual hierarchy across languages
+* Low-noise interface choices
+* Public open source project
 
 Links:
 
-- [Project page](https://venancio.dev/atlantico/)
-- [GitHub repository](https://github.com/gpvenancio/atlantico)
-- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gvenancio.atlantico)
+* [Project page](https://venancio.dev/atlantico/)
+* [GitHub repository](https://github.com/gpvenancio/atlantico)
+* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gvenancio.atlantico)
+* [Open VSX Registry](https://open-vsx.org/extension/gvenancio/atlantico)
 
 ### venancio.dev
 
